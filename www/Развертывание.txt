@@ -1,16 +1,16 @@
-1. переместить файлы из папки www в папку расположения сайта
-В качестве шаблона сайта я использовал eshop_bootstrap_red
+1. РїРµСЂРµРјРµСЃС‚РёС‚СЊ С„Р°Р№Р»С‹ РёР· РїР°РїРєРё www РІ РїР°РїРєСѓ СЂР°СЃРїРѕР»РѕР¶РµРЅРёСЏ СЃР°Р№С‚Р°
+Р’ РєР°С‡РµСЃС‚РІРµ С€Р°Р±Р»РѕРЅР° СЃР°Р№С‚Р° СЏ РёСЃРїРѕР»СЊР·РѕРІР°Р» eshop_bootstrap_red
 
 
-1. Создать инфоблок wishlist, добавить в него кастомные свойств
+1. РЎРѕР·РґР°С‚СЊ РёРЅС„РѕР±Р»РѕРє wishlist, РґРѕР±Р°РІРёС‚СЊ РІ РЅРµРіРѕ РєР°СЃС‚РѕРјРЅС‹Рµ СЃРІРѕР№СЃС‚РІ
 
 user
 element_title
 element_href
 element_pic
 
-2. Поменять IBLOCK_ID в файлах:
+2. РџРѕРјРµРЅСЏС‚СЊ IBLOCK_ID РІ С„Р°Р№Р»Р°С…:
 
-www\bitrix\components\bitrix\catalog.element\component.php (строка 356)
+www\bitrix\components\bitrix\catalog.element\component.php (СЃС‚СЂРѕРєР° 356)
 www\bitrix\components\intaro\wishlist\component.php
 www\bitrix\components\intaro\wishlist.top\component.php
